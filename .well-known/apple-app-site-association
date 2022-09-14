@@ -2,15 +2,10 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appIDs": ["753Q5N89CP.SmoothPursuit.Networth"],
-        "components": [
-          {
-            "/": "/*",
-            "comment": "Confirms accounts through email"
-          }
-        ]
-      }
+    {
+      "appID": "753Q5N89CP.SmoothPursuit.Networth",
+      "paths": ["*"]
+    }
     ]
   }
 }
